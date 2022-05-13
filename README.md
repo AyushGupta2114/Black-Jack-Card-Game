@@ -1,3 +1,3 @@
 # Black-Jack-Card-Game
-  Using Python in jupytor NoteBook
+  Using Python done in jupytor NoteBook
   
